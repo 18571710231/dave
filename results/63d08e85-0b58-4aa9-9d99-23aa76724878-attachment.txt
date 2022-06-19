@@ -1,0 +1,19 @@
+{
+  "args": {
+    "age": "33", 
+    "level": "1", 
+    "name": "seveniruby"
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate", 
+    "Host": "httpbin.testing-studio.com", 
+    "User-Agent": "python-requests/2.27.1", 
+    "X-Forwarded-Host": "httpbin.testing-studio.com", 
+    "X-Forwarded-Scheme": "https", 
+    "X-Scheme": "https"
+  }, 
+  "origin": "172.17.56.110", 
+  "url": "https://httpbin.testing-studio.com/get?level=1&name=seveniruby&age=33"
+}
+

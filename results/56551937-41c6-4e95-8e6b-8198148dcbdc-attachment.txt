@@ -1,0 +1,25 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "age": "33", 
+    "level": "1", 
+    "name": "seveniruby"
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate", 
+    "Content-Length": "30", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.testing-studio.com", 
+    "User-Agent": "python-requests/2.27.1", 
+    "X-Forwarded-Host": "httpbin.testing-studio.com", 
+    "X-Forwarded-Scheme": "https", 
+    "X-Scheme": "https"
+  }, 
+  "json": null, 
+  "origin": "172.17.56.110", 
+  "url": "https://httpbin.testing-studio.com/post"
+}
+

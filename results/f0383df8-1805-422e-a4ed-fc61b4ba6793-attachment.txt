@@ -1,0 +1,17 @@
+200
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate", 
+    "Host": "httpbin.testing-studio.com", 
+    "User-Agent": "python-requests/2.27.1", 
+    "X-Forwarded-Host": "httpbin.testing-studio.com", 
+    "X-Forwarded-Scheme": "https", 
+    "X-Scheme": "https"
+  }, 
+  "origin": "10.7.136.128", 
+  "url": "https://httpbin.testing-studio.com/get"
+}
+
+{'args': {}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Host': 'httpbin.testing-studio.com', 'User-Agent': 'python-requests/2.27.1', 'X-Forwarded-Host': 'httpbin.testing-studio.com', 'X-Forwarded-Scheme': 'https', 'X-Scheme': 'https'}, 'origin': '10.7.136.128', 'url': 'https://httpbin.testing-studio.com/get'}
